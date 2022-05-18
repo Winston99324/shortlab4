@@ -27,7 +27,7 @@ These instructions correspond with the instructions from the lecture slides. See
 
 Please type only the link to your repository using the template below. Fill in both the square brackets `[]` and the parentheses `()` with your link.
 
-[https://github.com/Winston99324/shortlab4/blob/main/README.md](https://github.com/Winston99324/shortlab4/blob/main/README.md)
+[https://github.com/Winston99324/shortlab4](https://github.com/Winston99324/shortlab4)
 
 Here's a checklist of what we should see at the link above:
 
